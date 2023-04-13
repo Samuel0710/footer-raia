@@ -18,8 +18,11 @@ export const H3 = styled.p`
  color: rgb(105, 105, 105);
  @media (max-width: 1439px){
     width: 50%;
+    font-size: 14px;
     margin: 20px 25% 15px;
+    padding: 0;
     text-align: left;
+    font-family: 'Pluto Sans';
   }
 `
 
